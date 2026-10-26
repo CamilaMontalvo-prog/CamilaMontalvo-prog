@@ -105,9 +105,9 @@ class Camila:
     <img src="https://img.shields.io/badge/LinkedIn-FF85B3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:camila28.montalvo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA9AB2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=camila28.montalvo@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA9AB2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
   <a href="https://www.instagram.com/nadine_montalvo28/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-D88CC8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
